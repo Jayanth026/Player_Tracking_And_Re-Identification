@@ -8,8 +8,8 @@ This project detects and tracks players and the ball in a short football video u
 ### 1. Clone YOLOv5 Repository (for compatibility with YOLOv11 weights)
 
 ```bash
-git clone https://github.com/ultralytics/yolov5
-cd yolov5
+git clone https://github.com/Jayanth026/Player_Tracking_And_Re-Identification.git
+cd Player_Tracking_And_Re-Identification
 ```
 
 ### 2. Install Dependencies
@@ -27,8 +27,7 @@ Ensure the following files are in your working directory:
 
 - `best.pt` – Your trained YOLOv11 weights
 - `15sec_input_720p.mp4` – Input video file
-- `track_players.py` – The Python script containing tracking logic
-
+- `Player_Mapping` – The Python script containing tracking logic
 ---
 
 ## 🚀 How to Run
@@ -36,7 +35,7 @@ Ensure the following files are in your working directory:
 From your terminal, run the tracking script:
 
 ```bash
-python track_players.py
+python Player_Mapping.py
 ```
 
 This will:
