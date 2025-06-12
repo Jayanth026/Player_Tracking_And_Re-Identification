@@ -61,7 +61,7 @@ This will:
 ## 📂 Output
 
 - `tracked_output.mp4` — Output video with bounding boxes and player IDs
-- `player_tracking_report_yolov11_ultralytics.pdf` — Summary report of methodology and challenges
+- `player_tracking_report.pdf` — Summary report of methodology and challenges
 
 ---
 
